@@ -40,7 +40,7 @@ Record a short video of your abstract art animation to display here on your READ
 - Upload the thumbnail image to your repo.
 - Use the following markdown
 
-[![https://docs.google.com/drawings/d/1DMCuAX-PtimmhLUs0qBZw3RVyfaoNXTaQp86QRjN2h0/editt](nameOfThumbnail.png)](
+[[![https://docs.google.com/drawings/d/1DMCuAX-PtimmhLUs0qBZw3RVyfaoNXTaQp86QRjN2h0/editt](nameOfThumbnail.png](https://docs.google.com/presentation/d/1OQPBnGOtvBdTPU-g6GgGKcj3eLwv4FHYlM2ppLDLS1s/edit?usp=sharing))](
 
 https://youtube.com/shorts/PNDWdMYxQCw?feature=share)
 
