@@ -28,7 +28,7 @@ Dataset: https://docs.google.com/spreadsheets/d/1DU3PgulHIGM1LLZJ91JFV56V26RCVgK
 ## UML Diagram
 
 
-![UML Diagram for my project]
+![[UML Diagram for my project](https://docs.google.com/drawings/d/1DMCuAX-PtimmhLUs0qBZw3RVyfaoNXTaQp86QRjN2h0/edit)]
 
 ## Video Demo
 
