@@ -44,4 +44,4 @@ Record a short video of your abstract art animation to display here on your READ
 
 ## Description
 
-Write a description of your project here. In your description, include as many vocab words from our class to explain your User Story, the chosen dataset and how your project addressed that users goals. If your project used the Scanner class for user input, explain how the user will interact with your project.
+When I run my program it clears the screen and sets a blue backdrop for the white text. Then math.random chooses a random number and that decides what game informationj is displayed. Then the name,publisher, and the date of the game is drawn on the screen with a 5 second countdown.
