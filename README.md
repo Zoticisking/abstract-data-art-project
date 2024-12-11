@@ -17,21 +17,18 @@ Use your knowledge of object-oriented programming, one-dimensional (1D) arrays, 
 
 ## Dataset
 
-Include a hyperlink to the source of your dataset used for this project. Additionally, provide a short description of each column used from the dataset, and the data type.
 
-Example:
 
-Dataset: https://www.kaggle.com/datasets/sansuthi/global-co2-emissions
+Dataset: https://docs.google.com/spreadsheets/d/1DU3PgulHIGM1LLZJ91JFV56V26RCVgK0adGnZ3MIQos/edit?usp=sharing
 
-- **Country** (String) - name of the country
-- **Population** (int) - number of people in the country
-- **CO2Emissions** (double) - carbon dioxide emission in kilotons
 
+- **Name** (String) - name of the game
+- **Publisher** (String) - publisher name of the game
+- **Date** (String) - date the game was released
 ## UML Diagram
 
-Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one work, otherwise it might not properly get display on this README.
 
-![UML Diagram for my project](nameOfImageFileHere.png)
+![UML Diagram for my project]
 
 ## Video Demo
 
