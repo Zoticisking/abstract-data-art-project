@@ -40,8 +40,8 @@ Record a short video of your abstract art animation to display here on your READ
 - Upload the thumbnail image to your repo.
 - Use the following markdown
 
-[![Thumbnail for my projet](nameOfThumbnail.png)](youtube-URL-here)
+[![Thumbnail for my projet](nameOfThumbnail.png)](https://youtube.com/shorts/PNDWdMYxQCw?feature=share)
 
 ## Description
 
-When I run my program it clears the screen and sets a blue backdrop for the white text. Then math.random chooses a random number and that decides what game informationj is displayed. Then the name,publisher, and the date of the game is drawn on the screen with a 5 second countdown.
+When I run my program it clears the screen and sets a blue backdrop for the white text. Then math.random chooses a random number and that decides what game information is displayed. Then the name,publisher, and the date of the game is drawn on the screen with a 5 second countdown.
